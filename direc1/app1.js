@@ -1,0 +1,1 @@
+declare <double>@var 
