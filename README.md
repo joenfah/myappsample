@@ -1,2 +1,2 @@
 #MyApp
-This is a first trailer on use of VCS project
+This is a first trailler on use of VCS project
